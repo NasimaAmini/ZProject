@@ -9,4 +9,7 @@ public class ABCD {
 		System.out.println("MMMMMMMMMMMM");
 	}
 // added code
+	
+	
+	System.out.println("hhyhy");
 }
