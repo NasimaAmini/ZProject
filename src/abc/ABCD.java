@@ -10,6 +10,6 @@ public class ABCD {
 	}
 // added code
 	
-	
+	// nnnnnnnnnnnnnnnnnnnnnnnnnnnn
 	System.out.println("hhyhy");
 }
